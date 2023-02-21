@@ -100,6 +100,7 @@ button:active {
 section {
   border: 1px solid #1b83e2;
   border-radius: 4px;
+  padding: 15px;
 }
 
 .currency-container {
